@@ -1,3 +1,6 @@
+This repository contains custom JS scripts made by me to be compatible with [MorePurpleMoreBetter's 5e character sheet](https://github.com/morepurplemorebetter/MPMBs-Character-Record-Sheet)
+
+
 # Scripts in this repository
 - Starblade Class by Ariadne's Codex of Strings
 
