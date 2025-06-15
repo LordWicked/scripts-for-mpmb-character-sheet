@@ -1,5 +1,7 @@
+# Scripts in this repository
+- Starblade Class by Ariadne's Codex of Strings
+
 # TODO
-1. Finish Starsight usages and recovery
-2. Add Greater Spellblade Maneuvers
-2. Check formatting
-3. Do calc changes marked with TODO in class_starblade_acos.js
+1. Only show Improved Maneuvers if regular ones are picked (Extrachoice?)
+2. Weird line break after fighting style in PDF
+3. Replace features with improvements
